@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<username>sa</username>
+	<password>a123</password>
+	<driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
+	<url>jdbc:sqlserver://localhost:1433;DatabaseName=BOC_Database</url>
+	<adv>resource/ad.gif</adv>
+</config>
